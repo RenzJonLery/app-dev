@@ -1,7 +1,5 @@
-![Geats_Poster](https://github.com/user-attachments/assets/3136458e-3938-4520-9122-406037d07530)
 # Kamen Rider Geats
-
-![Kamen Rider Geats](![Geats_Poster](https://github.com/user-attachments/assets/10b830e8-bc6c-42e4-93c1-f3bf762a965b)) 
+![Geats_Poster](https://github.com/user-attachments/assets/3136458e-3938-4520-9122-406037d07530)
 
 Kamen Rider Geats is the 33rd entry in the Kamen Rider series, which premiered on September 4, 2022. This series introduces a unique competition format where riders battle for survival in a game-like setting.
 
